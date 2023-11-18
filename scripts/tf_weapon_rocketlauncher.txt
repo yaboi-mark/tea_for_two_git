@@ -8,20 +8,20 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Primary Attributes.
-	"Damage"		"90"
-	"Range"			"0"
+	"Damage"		"60"
+	"Range"			"8192"
 	"BulletsPerShot"	"1"
-	"Spread"		"0.0"
-	"PunchAngle"		"0.0"
-	"TimeFireDelay"		"0.8"
-	"TimeIdle"		"0.8"
-	"TimeIdleEmpty"		"0.8"
-	"TimeReloadStart"	"0.1"
-	"TimeReload"		"0.83"
+	"Spread"		"0.013"
+	"PunchAngle"			"3.0"
+	"TimeIdleEmpty"			"0.25"
+	"TimeFireDelay"		"0.4"
+	"TimeReload"	"0.5"
+	"TimeReloadStart"	"0.2"
+	"TimeIdle"		"10.0"
 	"primary_ammo"		"TF_AMMO_PRIMARY"
-	clip_size		4
-	default_clip		4
-	"ProjectileType"	"projectile_rocket"
+	"clip_size"		"6"
+	"default_clip"		"6"
+	"ProjectileType"	"projectile_bullet"
 	"HasTeamSkins_Viewmodel"	"1"
 
 	// Secondary Attributes.

@@ -8,11 +8,8 @@ PlayerClass
 	"model"			"models/player/soldier.mdl"
 	"model_hwm"		"models/player/hwm/soldier.mdl"
 	"localize_name"	"TF_Class_Name_Soldier"
-	"speed_max"		"240"
-//	"health_max"		"100"
-//	"armor_max"		"250"
-	"health_max"		"200"
-	"armor_max"		"0"
+	"speed_max"		"360"
+	"health_max"		"250"
 
 	// Grenades.
 	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
@@ -28,7 +25,7 @@ PlayerClass
 	AmmoMax
 	{
 		"tf_ammo_primary"	"36"
-		"tf_ammo_secondary"	"32"
+		"tf_ammo_secondary"	"20"
 		"tf_ammo_metal"		"100"
 		"tf_ammo_grenades1"	"0"
 		"tf_ammo_grenades2"	"0"
