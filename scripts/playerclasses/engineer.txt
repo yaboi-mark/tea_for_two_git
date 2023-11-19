@@ -8,11 +8,8 @@ PlayerClass
 	"model"			"models/player/engineer.mdl"
 	"model_hwm"		"models/player/hwm/engineer.mdl"
 	"localize_name"	"TF_Class_Name_Engineer"
-	"speed_max"		"300"
-//	"health_max"		"80"
-//	"armor_max"		"50"
-	"health_max"		"125"
-	"armor_max"		"0"
+	"speed_max"		"390"
+	"health_max"		"250"
 
 	// Grenades.
 	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
@@ -34,8 +31,8 @@ PlayerClass
 	AmmoMax
 	{
 		"tf_ammo_primary"	"32"
-		"tf_ammo_secondary"	"200"
-		"tf_ammo_metal"		"200"
+		"tf_ammo_secondary"	"36"
+		"tf_ammo_metal"		"100"
 		"tf_ammo_grenades1"	"0"
 		"tf_ammo_grenades2"	"0"
 	}	
