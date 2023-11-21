@@ -21,7 +21,7 @@ fWeaponData
 	"primary_ammo"			"TF_AMMO_SECONDARY"
 	"clip_size"			"6"
 	"default_clip"			"6"
-	"ProjectileType"		"projectile_bullet"
+	"ProjectileType"		"projectile_syringe"
 	"AmmoPerShot"			"1"
 	"HasTeamSkins_Viewmodel"			"1"
 	
