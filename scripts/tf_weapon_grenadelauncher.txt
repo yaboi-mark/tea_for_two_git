@@ -8,23 +8,24 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"	
 
 	// Attributes TF.
-	"damage"		"112"
+	"Damage"				"12"
 	"DamageRadius"		"132"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.0"	
-	"PunchAngle"		"3.0"
+	"PunchAngle"			"3.0"
 	"TimeFireDelay"		"0.6"
-	"TimeIdle"		"0.6"
+	"TimeIdle"			"0.6"
 	"TimeIdleEmpty"		"0.6"
-	"TimeReloadStart"	"0.1"
 	"TimeReload"		"0.6"
+	"TimeReloadStart"	"-0.2"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_PRIMARY"
 	"secondary_ammo"	"None"
-	"clip_size"		"4"
-	"default_clip"		"4"
+	"clip_size"		"6"
+	"default_clip"		"6"
 	"ProjectileType"	"projectile_pipe"
+	"ProjectileSpeed"	"2900"
 
 	// Buckets.
 	"bucket"		"0"
