@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game	"Tea For Two"
+	game	"Tea For Two (TF2 mod)"
 	gamelogo 1
 	type multiplayer_only
 	nomodels 1
