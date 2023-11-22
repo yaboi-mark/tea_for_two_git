@@ -13,6 +13,8 @@ WeaponData
 	"BulletsPerShot"	"1"
 	"Spread"			"0.025"
 	"TimeFireDelay"		"0.5"
+	"TimeReloadStart"		"0.1"
+	"TimeReload"			"0.3"
 	"ProjectileType"	"projectile_bullet"
 	"DoInstantEjectBrass"	"0"
 	"HasTeamSkins_Viewmodel"			"1"
