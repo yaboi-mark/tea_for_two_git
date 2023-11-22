@@ -1,0 +1,20 @@
+23:50:30.811 INFO  Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\cp_dustbowl.bsp
+23:50:31.046 INFO  Using 'DStaticPropV6' for sprp version 6
+23:50:31.083 WARN  Tried reading lump 'LUMP_DISP_MULTIBLEND', but it is not supported by the bsp's version
+23:50:31.108 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+23:50:31.111 INFO  BSP version: 20
+23:50:31.113 INFO  Game: Team Fortress 2
+23:50:31.159 INFO  Equal amount of areaporal entities and areaportal brushes. Using 'Ordered' method
+23:50:31.176 INFO  Unequal amount of occluder faces and occluder brush faces. Falling back to 'Manual' method
+23:50:31.778 INFO  13663 (31.1%) exact brushside->origface matches
+23:50:31.782 INFO  55/589 (nondisp/disp) original faces left after exact brushside->origface matching
+23:50:31.900 INFO  802 (1.8%) partial brushside->origface matches
+23:50:31.905 INFO  Writing brushes and planes
+23:50:32.356 INFO  Writing displacements
+23:50:32.474 INFO  Writing entities
+23:50:32.515 INFO  Writing func_details
+23:50:32.917 INFO  Writing info_overlays
+23:50:32.933 INFO  Writing prop_statics
+23:50:32.959 INFO  Writing env_cubemaps
+23:50:32.960 INFO  Writing func_ladders
+23:50:32.966 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\cp_dustbowl.bsp.

@@ -1,0 +1,343 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8864"
+	"mapversion" "1"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "64"
+}
+palette_plus
+{
+	"color0" "255 255 255"
+	"color1" "255 255 255"
+	"color2" "255 255 255"
+	"color3" "255 255 255"
+	"color4" "255 255 255"
+	"color5" "255 255 255"
+	"color6" "255 255 255"
+	"color7" "255 255 255"
+	"color8" "255 255 255"
+	"color9" "255 255 255"
+	"color10" "255 255 255"
+	"color11" "255 255 255"
+	"color12" "255 255 255"
+	"color13" "255 255 255"
+	"color14" "255 255 255"
+	"color15" "255 255 255"
+}
+colorcorrection_plus
+{
+	"name0" ""
+	"weight0" "1"
+	"name1" ""
+	"weight1" "1"
+	"name2" ""
+	"weight2" "1"
+	"name3" ""
+	"weight3" "1"
+}
+light_plus
+{
+	"samples_sun" "6"
+	"samples_ambient" "40"
+	"samples_vis" "256"
+	"texlight" ""
+	"incremental_delay" "0"
+	"bake_dist" "1024"
+	"radius_scale" "1"
+	"brightness_scale" "1"
+	"ao_scale" "0"
+	"bounced" "1"
+	"incremental" "1"
+	"supersample" "0"
+	"bleed_hack" "1"
+	"soften_cosine" "0"
+	"debug" "0"
+	"cubemap" "1"
+	"hdr" "0"
+}
+bgimages_plus
+{
+}
+world
+{
+	"id" "1"
+	"mapversion" "1"
+	"classname" "worldspawn"
+	"comment" "Decompiled by BSPSource v1.4.4 from cp_dustbowl"
+	"detailmaterial" "detail/detailsprites_dustbowl"
+	"detailvbsp" "detail_dustbowl.vbsp"
+	"fogcolor" "255 255 255"
+	"fogcolor2" "255 255 255"
+	"fogdir" "1 0 0"
+	"fogend" "2000.0"
+	"fogstart" "500.0"
+	"maxpropscreenwidth" "-1"
+	"MaxRange" "8096"
+	"minoccluderarea_x360" "110"
+	"skyname" "sky_dustbowl_01"
+	"sounds" "1"
+	"spawnflags" "0"
+	solid
+	{
+		"id" "32"
+		side
+		{
+			"id" "1"
+			"plane" "(-1024 1024 -1024) (1024 1024 -1024) (1024 -1024 -1024)"
+			vertices_plus
+			{
+				"v" "-1024 1024 -1024"
+				"v" "1024 1024 -1024"
+				"v" "1024 -1024 -1024"
+				"v" "-1024 -1024 -1024"
+			}
+			"material" "DEV/DEV_BLENDMEASURE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2"
+			"plane" "(-1024 -1024 -1088) (1024 -1024 -1088) (1024 1024 -1088)"
+			vertices_plus
+			{
+				"v" "-1024 -1024 -1088"
+				"v" "1024 -1024 -1088"
+				"v" "1024 1024 -1088"
+				"v" "-1024 1024 -1088"
+			}
+			"material" "DEV/DEV_BLENDMEASURE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3"
+			"plane" "(-1024 1024 -1024) (-1024 -1024 -1024) (-1024 -1024 -1088)"
+			vertices_plus
+			{
+				"v" "-1024 1024 -1024"
+				"v" "-1024 -1024 -1024"
+				"v" "-1024 -1024 -1088"
+				"v" "-1024 1024 -1088"
+			}
+			"material" "DEV/DEV_BLENDMEASURE"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "4"
+			"plane" "(1024 1024 -1088) (1024 -1024 -1088) (1024 -1024 -1024)"
+			vertices_plus
+			{
+				"v" "1024 1024 -1088"
+				"v" "1024 -1024 -1088"
+				"v" "1024 -1024 -1024"
+				"v" "1024 1024 -1024"
+			}
+			"material" "DEV/DEV_BLENDMEASURE"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5"
+			"plane" "(1024 1024 -1024) (-1024 1024 -1024) (-1024 1024 -1088)"
+			vertices_plus
+			{
+				"v" "1024 1024 -1024"
+				"v" "-1024 1024 -1024"
+				"v" "-1024 1024 -1088"
+				"v" "1024 1024 -1088"
+			}
+			"material" "DEV/DEV_BLENDMEASURE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "6"
+			"plane" "(1024 -1024 -1088) (-1024 -1024 -1088) (-1024 -1024 -1024)"
+			vertices_plus
+			{
+				"v" "1024 -1024 -1088"
+				"v" "-1024 -1024 -1088"
+				"v" "-1024 -1024 -1024"
+				"v" "1024 -1024 -1024"
+			}
+			"material" "DEV/DEV_BLENDMEASURE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 228 201"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+}
+entity
+{
+	"id" "3"
+	"classname" "env_tonemap_controller"
+	"targetname" "tonemap_global"
+	"origin" "88 0 0.40553"
+	editor
+	{
+		"color" "220 220 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 8000]"
+	}
+}
+entity
+{
+	"id" "5"
+	"classname" "env_fog_controller"
+	"angles" "0 356 0"
+	"farz" "-1"
+	"fogblend" "1"
+	"fogcolor" "242 206 140"
+	"fogcolor2" "138 130 149"
+	"fogdir" "1 0 0"
+	"fogenable" "1"
+	"fogend" "8000"
+	"foglerptime" "0"
+	"fogmaxdensity" "1"
+	"fogstart" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"use_angles" "1"
+	"origin" "64 0 0.40553"
+	editor
+	{
+		"color" "220 220 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[4500 -6268]"
+	}
+}
+entity
+{
+	"id" "7"
+	"classname" "water_lod_control"
+	"cheapwaterenddistance" "2000"
+	"cheapwaterstartdistance" "1000"
+	"origin" "40 0 0.40553"
+	editor
+	{
+		"color" "220 220 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2500 8500]"
+	}
+}
+entity
+{
+	"id" "9"
+	"classname" "light_environment"
+	"_ambient" "151 135 180 420"
+	"_ambientHDR" "-1 -1 -1 1"
+	"_AmbientScaleHDR" "1"
+	"_light" "254 210 152 800"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"angles" "0 30 0"
+	"pitch" "-25"
+	"SunSpreadAngle" "5"
+	"origin" "20 0 0.40553"
+	editor
+	{
+		"color" "220 220 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[4500 -5768]"
+	}
+}
+entity
+{
+	"id" "11"
+	"classname" "shadow_control"
+	"angles" "45 30 0"
+	"color" "148 145 155"
+	"distance" "65"
+	"origin" "0 0 0"
+	editor
+	{
+		"color" "220 220 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[6000 -7268]"
+	}
+}
+entity
+{
+	"id" "38"
+	"classname" "info_player_teamspawn"
+	"angles" "0 0 0"
+	"TeamNum" "3"
+	"origin" "768 -768 -960"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Copy this to create 16 spawn points for BLU."
+		"logicalpos" "[0 15500]"
+	}
+}
+entity
+{
+	"id" "47"
+	"classname" "info_player_teamspawn"
+	"angles" "0 45 0"
+	"TeamNum" "3"
+	"origin" "-768 768 -960"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"comments" "Copy this to create 16 spawn points for BLU."
+		"logicalpos" "[0 15500]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}
