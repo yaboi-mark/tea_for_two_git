@@ -18,7 +18,7 @@ fWeaponData
 	"TimeIdleEmpty"			"0.25"
 	"TimeReloadStart"		"0.1"
 	"TimeReload"			"0.25"
-	"primary_ammo"			"TF_AMMO_SECONDARY"
+	"primary_ammo"			"TF_AMMO_PRIMARY"
 	"clip_size"			"8"
 	"default_clip"			"8"
 	"ProjectileType"		"projectile_bullet"
