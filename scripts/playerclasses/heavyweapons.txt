@@ -8,10 +8,10 @@ PlayerClass
 	"model"			"models/player/heavy.mdl"
 	"model_hwm"		"models/player/hwm/heavy.mdl"
 	"localize_name"	"TF_Class_Name_HWGuy"
-	"speed_max"		"230"
+	"speed_max"		"300"
 //	"health_max"		"100"
 //	"armor_max"		"400"
-	"health_max"		"300"
+	"health_max"		"420"
 	"armor_max"		"0"
 
 	// Grenades.
@@ -20,14 +20,14 @@ PlayerClass
 
 	// Weapons.
 	"weapon1"		"TF_WEAPON_FISTS"
-	"weapon2"		"TF_WEAPON_SHOTGUN_HWG"
-	"weapon3"		"TF_WEAPON_MINIGUN"
+	"weapon2"		"TF_WEAPON_REVOLVER"
+	"weapon3"		"TF_WEAPON_SHOTGUN_HWG"
 	
 
 	AmmoMax
 	{
-		"tf_ammo_primary"	"200"
-		"tf_ammo_secondary"	"32"
+		"tf_ammo_primary"	"80"
+		"tf_ammo_secondary"	"42"
 		"tf_ammo_metal"		"100"
 		"tf_ammo_grenades1"	"0"
 		"tf_ammo_grenades2"	"0"
