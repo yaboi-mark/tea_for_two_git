@@ -7441,3 +7441,306 @@ Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\k
 534874 patches after subdivision
 2 direct lights
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18821 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19 texinfos to 14
+Reduced 7 texdatas to 6 (165 bytes to 123)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+Wrote ZIP buffer, estimated size 423, actual size 343
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+ 214 portalclusters
+ 740 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 98 visible clusters (0.26%)
+Total clusters visible: 37078
+Average clusters visible: 173
+Building PAS...
+Average clusters audible: 214
+visdatasize:13279  compressed from 13696
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+6223 faces
+2 degenerate faces
+955112 square feet [137536128.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6221 patches before subdivision
+642909 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 210351141, max 2166
+transfer lists: 1604.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3017433, 2078185, 1939066)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(322589, 217483, 189479)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(54587, 36573, 30392)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8636, 5732, 4664)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1725, 1144, 912)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(295, 194, 155)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(62, 41, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1374 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 42/8192          504/98304    ( 0.5%) 
+brushsides             373/65536        2984/524288   ( 0.6%) 
+planes                 298/65536        5960/1310720  ( 0.5%) 
+vertexes              7480/65536       89760/786432   (11.4%) 
+nodes                  385/65536       12320/2097152  ( 0.6%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6223/65536      348488/3670016  ( 9.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              188/65536       10528/3670016  ( 0.3%) 
+leaves                 387/65536       12384/2097152  ( 0.6%) 
+leaffaces             6919/65536       13838/131072   (10.6%) 
+leafbrushes            213/65536         426/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28370/512000     113480/2048000  ( 5.5%) 
+edges                14305/256000      57220/1024000  ( 5.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            294/32768        2940/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4407/65536        8814/131072   ( 6.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    19954320/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13279/16777216 ( 0.1%) 
+entdata               [variable]        2643/393216   ( 0.7%) 
+LDR ambient table      387/65536        1548/262144   ( 0.6%) 
+HDR ambient table      387/65536        1548/262144   ( 0.6%) 
+LDR leaf ambient      3351/65536       93828/1835008  ( 5.1%) 
+HDR leaf ambient       387/65536       10836/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       18821/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15108
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+55 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+6223 faces
+2 degenerate faces
+955112 square feet [137536128.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6221 patches before subdivision
+642909 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+Wrote ZIP buffer, estimated size 657, actual size 443
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19203 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 17 texinfos to 12
+Reduced 7 texdatas to 6 (165 bytes to 123)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+Wrote ZIP buffer, estimated size 423, actual size 343
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+ 221 portalclusters
+ 790 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 113 visible clusters (0.30%)
+Total clusters visible: 37871
+Average clusters visible: 171
+Building PAS...
+Average clusters audible: 221
+visdatasize:14360  compressed from 14144
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5983 faces
+920858 square feet [132603600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5983 patches before subdivision
+621095 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 193469641, max 2259
+transfer lists: 1476.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2718573, 1867073, 1710655)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(300624, 202855, 178199)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(48992, 32834, 27563)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7871, 5231, 4322)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1468, 974, 789)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(260, 172, 139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(50, 33, 27)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1332 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 40/8192          480/98304    ( 0.5%) 
+brushsides             361/65536        2888/524288   ( 0.6%) 
+planes                 296/65536        5920/1310720  ( 0.5%) 
+vertexes              7457/65536       89484/786432   (11.4%) 
+nodes                  388/65536       12416/2097152  ( 0.6%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5983/65536      335048/3670016  ( 9.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              174/65536        9744/3670016  ( 0.3%) 
+leaves                 390/65536       12480/2097152  ( 0.6%) 
+leaffaces             6558/65536       13116/131072   (10.0%) 
+leafbrushes            242/65536         484/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            27754/512000     111016/2048000  ( 5.4%) 
+edges                13975/256000      55900/1024000  ( 5.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            464/32768        4640/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6423/65536       12846/131072   ( 9.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    19206800/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       14360/16777216 ( 0.1%) 
+entdata               [variable]        2641/393216   ( 0.7%) 
+LDR ambient table      390/65536        1560/262144   ( 0.6%) 
+HDR ambient table      390/65536        1560/262144   ( 0.6%) 
+LDR leaf ambient      3366/65536       94248/1835008  ( 5.1%) 
+HDR leaf ambient       390/65536       10920/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       19203/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15034
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5983 faces
+920858 square feet [132603600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5983 patches before subdivision
+621095 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...Out of memory or address space.  Texture quality setting may be too high.
