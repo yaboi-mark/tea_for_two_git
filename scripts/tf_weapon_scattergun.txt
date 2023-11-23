@@ -22,6 +22,7 @@ WeaponData
 	"MaxAmmo"				"24"	
 	
 	"DoInstantEjectBrass"	"0"
+	"ProjectileType"		"projectile_bullet"
 	"BrassModel"			"models/weapons/shells/shell_shotgun.mdl"	
 	"TracerEffect"		"bullet_scattergun_tracer01"
 
