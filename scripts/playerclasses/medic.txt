@@ -8,10 +8,10 @@ PlayerClass
 	"model"			"models/player/medic.mdl"
 	"model_hwm"		"models/player/hwm/medic.mdl"
 	"localize_name"	"TF_Class_Name_Medic"
-	"speed_max"		"320"
+	"speed_max"		"390"
 //	"health_max"		"90"
 //	"armor_max"		"100"
-	"health_max"		"150"
+	"health_max"		"250"
 	"armor_max"		"0"
 
 	// Grenades.
