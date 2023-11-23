@@ -14,8 +14,6 @@ fWeaponData
 	"Spread"			"0.0625"
 	"PunchAngle"			"2.0"
 	"TimeFireDelay"			"0.4"
-	"TimeIdle"			"5.0"
-	"TimeIdleEmpty"			"0.15"
 	"TimeReloadStart"		"0.1"
 	"TimeReload"			"0.2"
 	"primary_ammo"			"TF_AMMO_PRIMARY"
