@@ -8,8 +8,8 @@ PlayerClass
 	"model"			"models/player/demo.mdl"
 	"model_hwm"		"models/player/hwm/demo.mdl"
 	"localize_name"	"TF_Class_Name_Demoman"
-	"speed_max"		"280"
-	"health_max"		"175"
+	"speed_max"		"390"
+	"health_max"		"225"
 	"armor_max"		"0"
 
 	// Grenades.
@@ -18,8 +18,8 @@ PlayerClass
 
 	// Weapons.
 	"weapon1"		"TF_WEAPON_BOTTLE"
-	"weapon2"		"TF_WEAPON_PIPEBOMBLAUNCHER"
-	"weapon3"		"TF_WEAPON_GRENADELAUNCHER"
+	"weapon2"		"TF_WEAPON_SMG"
+	"weapon3"		"TF_WEAPON_SCATTERGUN"
 
 
 
