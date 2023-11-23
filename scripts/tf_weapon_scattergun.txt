@@ -17,6 +17,9 @@ WeaponData
 	"TimeIdle"				"5.0"
 	"TimeIdleEmpty"			"0.4"
 	"TimeReload"			"1.4"
+	"primary_ammo"			"primary_ammo"
+	"clip_size"				"2"
+	"MaxAmmo"				"24"	
 	
 	"DoInstantEjectBrass"	"0"
 	"BrassModel"			"models/weapons/shells/shell_shotgun.mdl"	
