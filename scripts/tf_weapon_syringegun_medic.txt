@@ -25,6 +25,9 @@ WeaponData
 	"secondary_ammo"	"None"
 	clip_size		12
 	default_clip		12
+	"AmmoPerReload"		"6"
+	"MaxAmmo"	"200"
+	"ReloadTypeOverride"	"1"
 
 	// Buckets.
 	"bucket"		"0"
