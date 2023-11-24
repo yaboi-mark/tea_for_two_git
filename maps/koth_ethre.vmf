@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8862"
-	"mapversion" "79"
+	"mapversion" "80"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -72,7 +72,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "79"
+	"mapversion" "80"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.4 from cp_dustbowl"
 	"detailmaterial" "detail/detailsprites_dustbowl"
@@ -10401,10 +10401,10 @@ entity
 {
 	"id" "9"
 	"classname" "light_environment"
-	"_ambient" "151 135 180 42"
+	"_ambient" "151 135 180 420"
 	"_ambientHDR" "-1 -1 -1 1"
 	"_AmbientScaleHDR" "1"
-	"_light" "254 210 152 80"
+	"_light" "254 210 152 800"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"angles" "0 30 0"
