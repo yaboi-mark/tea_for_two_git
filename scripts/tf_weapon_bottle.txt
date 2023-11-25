@@ -11,8 +11,8 @@
 	"HasTeamSkins_Worldmodel"			"1"
 	
 	// Attributes TF.
-	"Damage"			"65"
-	"TimeFireDelay"			"0.8"
+	"Damage"			"125"
+	"TimeFireDelay"			"1.5"
 	"TimeIdle"			"5.0"
 
 	// Ammo & Clip

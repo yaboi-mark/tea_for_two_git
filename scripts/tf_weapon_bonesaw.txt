@@ -9,8 +9,8 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Attributes TF.
-	"Damage"				"65"
-	"TimeFireDelay"			"0.8"
+	"Damage"				"105"
+	"TimeFireDelay"			"1"
 	"TimeIdle"				"5.0"
 	"HasTeamSkins_Viewmodel"		"1"
 
