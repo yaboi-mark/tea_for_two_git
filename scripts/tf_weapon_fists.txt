@@ -10,7 +10,7 @@ WeaponData
 	"DontDrop"			"1"
 	
 	// Attributes TF.
-	"Damage"			"25"
+	"Damage"			"30"
 	"TimeFireDelay"			"0.25"
 	"TimeIdle"			"5.0"
 
