@@ -12,7 +12,7 @@ WeaponData
 	"Range"			"8192"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.0"
-	"TimeFireDelay"		"0.4"
+	"TimeFireDelay"		"0.3"
 	"TimeReloadStart"		"0.1"
 	"TimeReload"			"1"
 	"ProjectileType"	"projectile_syringe"
