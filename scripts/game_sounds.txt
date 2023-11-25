@@ -741,3 +741,13 @@
 	"soundlevel"  	"SNDLVL_94dB"
 	"wave"			")misc/achievement_earned.wav"
 }
+
+"music.ethrealert"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  	"SNDLVL_NONE"
+	"pitch"		"100, 100"
+
+	"wave"	"#music/ethrealert.mp3"
+}

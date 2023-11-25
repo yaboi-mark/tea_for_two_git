@@ -40,6 +40,9 @@ WeaponData
 	"viewmodel"		"models/weapons/v_models/v_grenadelauncher_demo.mdl"
 	"playermodel"		"models/weapons/w_models/w_grenadelauncher.mdl"
 	"anim_prefix"		"gl"
+	//"viewmodel"		"models/weapons/v_models/v_bouncer.mdl"
+	//"playermodel"					"models/weapons/w_models/w_bouncer.mdl"
+	//"anim_prefix"					"gl"
 	// Muzzleflash
 	"MuzzleFlashParticleEffect" "muzzle_grenadelauncher"
 	// Sounds.
