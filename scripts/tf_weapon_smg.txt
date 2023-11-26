@@ -8,13 +8,13 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 		
 	// Attributes TF.
-	"Damage"		"8"
+	"Damage"		"15"
 	"Range"			"8192"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.025"
 	"TimeIdle"		"10.0"
 	"TimeIdleEmpty"		"1.0"
-	"TimeFireDelay"		"0.1"
+	"TimeFireDelay"		"0.2"
 	"ProjectileType"	"projectile_bullet"
 	"BrassModel"		"models/weapons/shells/shell_pistol.mdl"
 	"UseRapidFireCrits"	"1"
@@ -22,8 +22,8 @@ WeaponData
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_SECONDARY"
 	"secondary_ammo"	"None"
-	clip_size		25
-	default_clip		25
+	clip_size		40
+	default_clip		40
 
 	// Buckets.
 	"bucket"		"1"
