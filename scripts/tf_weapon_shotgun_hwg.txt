@@ -15,7 +15,7 @@ fWeaponData
 	"PunchAngle"			"2.0"
 	"TimeFireDelay"			"0.4"
 	"TimeReloadStart"		"0.1"
-	"TimeReload"			"0.2"
+	"TimeReload"			"0.25"
 	"primary_ammo"			"TF_AMMO_PRIMARY"
 	"clip_size"		"8"
 	"default_clip"		"8"
