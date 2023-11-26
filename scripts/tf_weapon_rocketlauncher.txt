@@ -1,7 +1,7 @@
 WeaponData
 {
 	// Attributes Base.
-	"printname"		"#TF_Weapon_RocketLauncher"
+	"printname"		"#TF_Weapon_Garand"
 	"BuiltRightHanded"	"0"
 	"weight"		"3"
 	"WeaponType"		"primary"
@@ -46,12 +46,11 @@ WeaponData
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	SoundData
 	{
-		
-		"single_shot"		"Weapon_Shotgun.Single"
+		"single_shot"		"Weapon_Revolver.Single"
+		"burst"			"Weapon_Revolver.SingleCrit"
 		"empty"			"Weapon_Shotgun.Empty"
 		"reload"		"Weapon_Shotgun.WorldReload"
 		"special1"		"Weapon_Shotgun.Pump"
-		"burst"			"Weapon_Shotgun.SingleCrit"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.
