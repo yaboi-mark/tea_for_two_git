@@ -8,26 +8,26 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" "1"
 
 	// Attributes TF.
-	"damage"		"120"
-	"DamageRadius"		"132"
+	"damage"		"70"
+	"DamageRadius"		"15"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.0"
 	"PunchAngle"		"3.0"	
-	"TimeFireDelay"		"0.6"
+	"TimeFireDelay"		"0.25"
 	"TimeIdle"		"0.6"
-	"TimeIdleEmpty"		"0.6"
-	"TimeReloadStart"	"0.1"
+	"TimeIdleEmpty"		"0.4"
+	"TimeReloadStart"	"0.5"
 	"TimeReload"		"0.67"
 
 	// Ammo & Clip.
-	"primary_ammo"		"TF_AMMO_SECONDARY"
+	"primary_ammo"		"TF_AMMO_PRIMARY"
 	"secondary_ammo"	"None"
 	"clip_size"		"8"
 	"default_clip"		"8"
-	"ProjectileType"	"projectile_pipe_remote"
+	"ProjectileType"	"projectile_pipe"
 
 	// Buckets.
-	"bucket"		"1"
+	"bucket"		"0"
 	"bucket_position"	"0"
 	
 	"ExplosionSound"	"Weapon_Grenade_Pipebomb.Explode"

@@ -8,10 +8,10 @@ PlayerClass
 	"model"			"models/player/sniper.mdl"
 	"model_hwm"		"models/player/hwm/sniper.mdl"
 	"localize_name"	"TF_Class_Name_Sniper"
-	"speed_max"		"300"
+	"speed_max"		"360"
 //	"health_max"		"95"
 //	"armor_max"		"25"
-	"health_max"		"125"
+	"health_max"		"225"
 	"armor_max"		"0"
 
 	// Grenades.
@@ -20,7 +20,7 @@ PlayerClass
 	// Weapons.
 	"weapon1"		"TF_WEAPON_CLUB"
 	"weapon2"		"TF_WEAPON_SMG"
-	"weapon3"		"TF_WEAPON_SNIPERRIFLE"
+	"weapon3"		"TF_WEAPON_PIPEBOMBLAUNCHER"
 
 	AmmoMax
 	{
