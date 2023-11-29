@@ -17,7 +17,7 @@
 	FileSystem
 	{
 		SteamAppId				243750 // Source SDK Base 2013 Multiplayer
-
+		AdditionalContentId 440
 		//
 		// Setup engine search paths.
 		//
@@ -55,7 +55,12 @@
 			game				|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
 			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
 			game				|all_source_engine_paths|hl2/hl2_misc.vpk
-
+			
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_textures.vpk"
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_sound_vo_english.vpk"
+			game+mod			"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_sound_misc.vpk"
+			game+mod+vgui		"|gameinfo_path|../../common/Team Fortress 2/tf/tf2_misc.vpk"			
+			
 			platform			|all_source_engine_paths|platform/platform_misc.vpk
 
 			// Lastly, mount in shared loose files.
