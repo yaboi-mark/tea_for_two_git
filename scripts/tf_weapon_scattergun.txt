@@ -20,6 +20,7 @@ WeaponData
 	"primary_ammo"			"TF_AMMO_PRIMARY"
 	"clip_size"				"2"
 	"MaxAmmo"				"24"	
+	"AmmoPerReload"		"2"
 	
 	"DoInstantEjectBrass"	"0"
 	"ProjectileType"		"projectile_bullet"
