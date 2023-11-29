@@ -8,7 +8,7 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Attributes TF.
-	"Damage"		"170"	// per second
+	"Damage"		"80"	// per second
 	"Range"			"0"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.0"
@@ -18,12 +18,12 @@ WeaponData
 
 
 	// Ammo & Clip.
-	"primary_ammo"		"TF_AMMO_PRIMARY"
+	"primary_ammo"		"TF_AMMO_SECONDARY"
 	"secondary_ammo"	"None"
-	clip_size		-1
+	"clip_size"		"-1"
 
 	// Buckets.
-	"bucket"		"0"
+	"bucket"		"1"
 	"bucket_position"	"0"
 
 	// Animation.
