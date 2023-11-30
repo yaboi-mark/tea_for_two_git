@@ -8,10 +8,10 @@ PlayerClass
 	"model"			"models/player/pyro.mdl"
 	"model_hwm"		"models/player/hwm/pyro.mdl"
 	"localize_name"	"TF_Class_Name_Pyro"
-	"speed_max"		"300"
+	"speed_max"		"330"
 //	"health_max"		"100"
 //	"armor_max"		"150"
-	"health_max"		"175"
+	"health_max"		"300"
 	"armor_max"		"0"
 
 	// Grenades.
