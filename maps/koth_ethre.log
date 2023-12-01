@@ -13631,3 +13631,1652 @@ Level flags = 0
 Total triangle count: 13922
 Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4632.0 16.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 5120.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 4608.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 3584.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 10
+Reduced 6 texdatas to 5 (113 bytes to 100)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4632.0 16.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 5120.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 4608.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 3584.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 10
+Reduced 6 texdatas to 5 (113 bytes to 100)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4632.0 16.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 5120.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 4608.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 3584.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 10
+Reduced 6 texdatas to 5 (113 bytes to 100)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4632.0 16.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 5120.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 4608.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 3584.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 10
+Reduced 6 texdatas to 5 (113 bytes to 100)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4120.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 4632.0 16.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 5120.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 4608.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 2056.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3072.0 3584.0 -2024.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 3584.0 16.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4524 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 10
+Reduced 6 texdatas to 5 (113 bytes to 100)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45653 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 20 texinfos to 15
+Reduced 8 texdatas to 7 (184 bytes to 142)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+Wrote ZIP buffer, estimated size 423, actual size 343
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+ 692 portalclusters
+2275 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1788 visible clusters (0.45%)
+Total clusters visible: 401674
+Average clusters visible: 580
+Building PAS...
+Average clusters audible: 692
+visdatasize:126368  compressed from 121792
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+3 minutes, 39 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5919 faces
+4900166 square feet [705623936.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5919 patches before subdivision
+587099 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 147802316, max 1821
+transfer lists: 1127.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2434181, 1681829, 1638472)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(214878, 145568, 139403)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(28072, 18801, 17312)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3533, 2335, 2134)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(537, 352, 314)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(81, 53, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14, 9, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1337 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             822/65536        6576/524288   ( 1.3%) 
+planes                 546/65536       10920/1310720  ( 0.8%) 
+vertexes              7533/65536       90396/786432   (11.5%) 
+nodes                 1305/65536       41760/2097152  ( 2.0%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5919/65536      331464/3670016  ( 9.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              472/65536       26432/3670016  ( 0.7%) 
+leaves                1312/65536       41984/2097152  ( 2.0%) 
+leaffaces             6587/65536       13174/131072   (10.1%) 
+leafbrushes            650/65536        1300/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28877/512000     115508/2048000  ( 5.6%) 
+edges                14655/256000      58620/1024000  ( 5.7%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            512/32768        5120/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6294/65536       12588/131072   ( 9.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    15902884/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      126368/16777216 ( 0.8%) 
+entdata               [variable]       11465/393216   ( 2.9%) 
+LDR ambient table     1312/65536        5248/262144   ( 2.0%) 
+HDR ambient table     1312/65536        5248/262144   ( 2.0%) 
+LDR leaf ambient     10391/65536      290948/1835008  (15.9%) 
+HDR leaf ambient      1312/65536       36736/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       45653/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 14980
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5919 faces
+4900166 square feet [705623936.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5919 patches before subdivision
+587099 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 147802316, max 1821
+transfer lists: 1127.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2434183, 1681832, 1638474)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(214878, 145568, 139404)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(28072, 18801, 17312)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3533, 2335, 2134)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(537, 352, 314)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(81, 53, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14, 9, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1387 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             822/65536        6576/524288   ( 1.3%) 
+planes                 546/65536       10920/1310720  ( 0.8%) 
+vertexes              7533/65536       90396/786432   (11.5%) 
+nodes                 1305/65536       41760/2097152  ( 2.0%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5919/65536      331464/3670016  ( 9.0%) 
+hdr faces             5919/65536      331464/3670016  ( 9.0%) 
+origfaces              472/65536       26432/3670016  ( 0.7%) 
+leaves                1312/65536       41984/2097152  ( 2.0%) 
+leaffaces             6587/65536       13174/131072   (10.1%) 
+leafbrushes            650/65536        1300/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28877/512000     115508/2048000  ( 5.6%) 
+edges                14655/256000      58620/1024000  ( 5.7%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            512/32768        5120/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6294/65536       12588/131072   ( 9.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    15902884/0        ( 0.0%) 
+HDR lightdata         [variable]    15902884/0        ( 0.0%) 
+visdata               [variable]      126368/16777216 ( 0.8%) 
+entdata               [variable]       11465/393216   ( 2.9%) 
+LDR ambient table     1312/65536        5248/262144   ( 2.0%) 
+HDR ambient table     1312/65536        5248/262144   ( 2.0%) 
+LDR leaf ambient     10391/65536      290948/1835008  (15.9%) 
+HDR leaf ambient     10391/65536      290948/1835008  (15.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       45653/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 14980
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+52 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 80 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44680 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 20 texinfos to 15
+Reduced 8 texdatas to 7 (184 bytes to 142)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+Wrote ZIP buffer, estimated size 423, actual size 343
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+ 285 portalclusters
+ 845 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 29 visible clusters (0.04%)
+Total clusters visible: 76064
+Average clusters visible: 266
+Building PAS...
+Average clusters audible: 285
+visdatasize:22835  compressed from 22800
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5637 faces
+2 degenerate faces
+4965112 square feet [714976192.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5635 patches before subdivision
+584985 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 124470483, max 1659
+transfer lists: 949.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2318246, 1601821, 1559008)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(200651, 135845, 129833)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(26117, 17468, 16026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3126, 2061, 1883)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(462, 302, 268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(65, 42, 37)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1467 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             822/65536        6576/524288   ( 1.3%) 
+planes                 548/65536       10960/1310720  ( 0.8%) 
+vertexes              7661/65536       91932/786432   (11.7%) 
+nodes                  655/65536       20960/2097152  ( 1.0%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5637/65536      315672/3670016  ( 8.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              482/65536       26992/3670016  ( 0.7%) 
+leaves                 662/65536       21184/2097152  ( 1.0%) 
+leaffaces             7144/65536       14288/131072   (10.9%) 
+leafbrushes            608/65536        1216/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28718/512000     114872/2048000  ( 5.6%) 
+edges                14853/256000      59412/1024000  ( 5.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11256/65536       22512/131072   (17.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    16738516/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22835/16777216 ( 0.1%) 
+entdata               [variable]       11465/393216   ( 2.9%) 
+LDR ambient table      662/65536        2648/262144   ( 1.0%) 
+HDR ambient table      662/65536        2648/262144   ( 1.0%) 
+LDR leaf ambient      4522/65536      126616/1835008  ( 6.9%) 
+HDR leaf ambient       662/65536       18536/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       44680/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15337
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+52 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5637 faces
+2 degenerate faces
+4965112 square feet [714976192.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5635 patches before subdivision
+584985 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 124470483, max 1659
+transfer lists: 949.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2318242, 1601820, 1559007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(200651, 135844, 129833)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(26117, 17468, 16026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3126, 2061, 1883)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(462, 302, 268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(65, 42, 37)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1515 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             822/65536        6576/524288   ( 1.3%) 
+planes                 548/65536       10960/1310720  ( 0.8%) 
+vertexes              7661/65536       91932/786432   (11.7%) 
+nodes                  655/65536       20960/2097152  ( 1.0%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5637/65536      315672/3670016  ( 8.6%) 
+hdr faces             5637/65536      315672/3670016  ( 8.6%) 
+origfaces              482/65536       26992/3670016  ( 0.7%) 
+leaves                 662/65536       21184/2097152  ( 1.0%) 
+leaffaces             7144/65536       14288/131072   (10.9%) 
+leafbrushes            608/65536        1216/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28718/512000     114872/2048000  ( 5.6%) 
+edges                14853/256000      59412/1024000  ( 5.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11256/65536       22512/131072   (17.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    16738516/0        ( 0.0%) 
+HDR lightdata         [variable]    16738516/0        ( 0.0%) 
+visdata               [variable]       22835/16777216 ( 0.1%) 
+entdata               [variable]       11465/393216   ( 2.9%) 
+LDR ambient table      662/65536        2648/262144   ( 1.0%) 
+HDR ambient table      662/65536        2648/262144   ( 1.0%) 
+LDR leaf ambient      4522/65536      126616/1835008  ( 6.9%) 
+HDR leaf ambient      4522/65536      126616/1835008  ( 6.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       44680/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15337
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+52 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 80 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44680 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 20 texinfos to 15
+Reduced 8 texdatas to 7 (184 bytes to 142)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+Wrote ZIP buffer, estimated size 423, actual size 343
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+ 285 portalclusters
+ 845 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 29 visible clusters (0.04%)
+Total clusters visible: 76064
+Average clusters visible: 266
+Building PAS...
+Average clusters audible: 285
+visdatasize:22835  compressed from 22800
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5637 faces
+2 degenerate faces
+4965112 square feet [714976192.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5635 patches before subdivision
+584985 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 124470483, max 1659
+transfer lists: 949.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2318245, 1601821, 1559009)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(200653, 135846, 129834)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(26118, 17469, 16027)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3127, 2061, 1883)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(462, 302, 268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(65, 42, 37)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1503 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             822/65536        6576/524288   ( 1.3%) 
+planes                 548/65536       10960/1310720  ( 0.8%) 
+vertexes              7661/65536       91932/786432   (11.7%) 
+nodes                  655/65536       20960/2097152  ( 1.0%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5637/65536      315672/3670016  ( 8.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              482/65536       26992/3670016  ( 0.7%) 
+leaves                 662/65536       21184/2097152  ( 1.0%) 
+leaffaces             7144/65536       14288/131072   (10.9%) 
+leafbrushes            608/65536        1216/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28718/512000     114872/2048000  ( 5.6%) 
+edges                14853/256000      59412/1024000  ( 5.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11256/65536       22512/131072   (17.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    16738516/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22835/16777216 ( 0.1%) 
+entdata               [variable]       11719/393216   ( 3.0%) 
+LDR ambient table      662/65536        2648/262144   ( 1.0%) 
+HDR ambient table      662/65536        2648/262144   ( 1.0%) 
+LDR leaf ambient      4522/65536      126616/1835008  ( 6.9%) 
+HDR leaf ambient       662/65536       18536/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       44680/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15337
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+57 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5637 faces
+2 degenerate faces
+4965112 square feet [714976192.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5635 patches before subdivision
+584985 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 124470483, max 1659
+transfer lists: 949.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2318246, 1601822, 1559008)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(200651, 135845, 129833)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(26117, 17468, 16026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3126, 2061, 1883)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(462, 302, 268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(65, 42, 37)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1643 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 94/8192         1128/98304    ( 1.1%) 
+brushsides             822/65536        6576/524288   ( 1.3%) 
+planes                 548/65536       10960/1310720  ( 0.8%) 
+vertexes              7661/65536       91932/786432   (11.7%) 
+nodes                  655/65536       20960/2097152  ( 1.0%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5637/65536      315672/3670016  ( 8.6%) 
+hdr faces             5637/65536      315672/3670016  ( 8.6%) 
+origfaces              482/65536       26992/3670016  ( 0.7%) 
+leaves                 662/65536       21184/2097152  ( 1.0%) 
+leaffaces             7144/65536       14288/131072   (10.9%) 
+leafbrushes            608/65536        1216/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28718/512000     114872/2048000  ( 5.6%) 
+edges                14853/256000      59412/1024000  ( 5.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11256/65536       22512/131072   (17.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    16738516/0        ( 0.0%) 
+HDR lightdata         [variable]    16738516/0        ( 0.0%) 
+visdata               [variable]       22835/16777216 ( 0.1%) 
+entdata               [variable]       11719/393216   ( 3.0%) 
+LDR ambient table      662/65536        2648/262144   ( 1.0%) 
+HDR ambient table      662/65536        2648/262144   ( 1.0%) 
+LDR leaf ambient      4522/65536      126616/1835008  ( 6.9%) 
+HDR leaf ambient      4522/65536      126616/1835008  ( 6.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       44680/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15337
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+59 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 88 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 20 texinfos to 15
+Reduced 8 texdatas to 7 (184 bytes to 142)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+Wrote ZIP buffer, estimated size 423, actual size 343
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+ 223 portalclusters
+ 665 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 49645
+Average clusters visible: 222
+Building PAS...
+Average clusters audible: 223
+visdatasize:14276  compressed from 14272
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5728 faces
+2 degenerate faces
+4990022 square feet [718563136.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5726 patches before subdivision
+591832 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118803994, max 1652
+transfer lists: 906.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2251197, 1556000, 1522884)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196394, 133002, 127444)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25309, 16932, 15591)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3035, 2001, 1831)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(447, 292, 259)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(63, 41, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1527 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 96/8192         1152/98304    ( 1.2%) 
+brushsides             838/65536        6704/524288   ( 1.3%) 
+planes                 552/65536       11040/1310720  ( 0.8%) 
+vertexes              7884/65536       94608/786432   (12.0%) 
+nodes                  550/65536       17600/2097152  ( 0.8%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5728/65536      320768/3670016  ( 8.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              497/65536       27832/3670016  ( 0.8%) 
+leaves                 557/65536       17824/2097152  ( 0.8%) 
+leaffaces             7537/65536       15074/131072   (11.5%) 
+leafbrushes            609/65536        1218/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            29570/512000     118280/2048000  ( 5.8%) 
+edges                15401/256000      61604/1024000  ( 6.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1017/32768       10170/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12834/65536       25668/131072   (19.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    17181728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       14276/16777216 ( 0.1%) 
+entdata               [variable]       13012/393216   ( 3.3%) 
+LDR ambient table      557/65536        2228/262144   ( 0.8%) 
+HDR ambient table      557/65536        2228/262144   ( 0.8%) 
+LDR leaf ambient      3542/65536       99176/1835008  ( 5.4%) 
+HDR leaf ambient       557/65536       15596/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       45432/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15951
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+57 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5728 faces
+2 degenerate faces
+4990022 square feet [718563136.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5726 patches before subdivision
+591832 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118803994, max 1652
+transfer lists: 906.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2251199, 1556001, 1522882)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196394, 133002, 127443)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25309, 16932, 15591)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3035, 2001, 1831)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(447, 292, 259)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(63, 41, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1555 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 96/8192         1152/98304    ( 1.2%) 
+brushsides             838/65536        6704/524288   ( 1.3%) 
+planes                 552/65536       11040/1310720  ( 0.8%) 
+vertexes              7884/65536       94608/786432   (12.0%) 
+nodes                  550/65536       17600/2097152  ( 0.8%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5728/65536      320768/3670016  ( 8.7%) 
+hdr faces             5728/65536      320768/3670016  ( 8.7%) 
+origfaces              497/65536       27832/3670016  ( 0.8%) 
+leaves                 557/65536       17824/2097152  ( 0.8%) 
+leaffaces             7537/65536       15074/131072   (11.5%) 
+leafbrushes            609/65536        1218/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            29570/512000     118280/2048000  ( 5.8%) 
+edges                15401/256000      61604/1024000  ( 6.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1017/32768       10170/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12834/65536       25668/131072   (19.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    17181728/0        ( 0.0%) 
+HDR lightdata         [variable]    17181728/0        ( 0.0%) 
+visdata               [variable]       14276/16777216 ( 0.1%) 
+entdata               [variable]       13012/393216   ( 3.3%) 
+LDR ambient table      557/65536        2228/262144   ( 0.8%) 
+HDR ambient table      557/65536        2228/262144   ( 0.8%) 
+LDR leaf ambient      3542/65536       99176/1835008  ( 5.4%) 
+HDR leaf ambient      3542/65536       99176/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       45432/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15951
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+57 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 106 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45448 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 20 texinfos to 15
+Reduced 8 texdatas to 7 (184 bytes to 142)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+Wrote ZIP buffer, estimated size 423, actual size 343
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.prt
+ 207 portalclusters
+ 597 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 42789
+Average clusters visible: 206
+Building PAS...
+Average clusters audible: 207
+visdatasize:12424  compressed from 13248
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5721 faces
+8 degenerate faces
+4989257 square feet [718453056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5713 patches before subdivision
+591211 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118897488, max 1653
+transfer lists: 907.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2259302, 1561449, 1526527)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196887, 133328, 127701)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25454, 17028, 15660)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3048, 2009, 1837)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(449, 294, 261)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(63, 41, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1498 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 96/8192         1152/98304    ( 1.2%) 
+brushsides             838/65536        6704/524288   ( 1.3%) 
+planes                 552/65536       11040/1310720  ( 0.8%) 
+vertexes              7885/65536       94620/786432   (12.0%) 
+nodes                  530/65536       16960/2097152  ( 0.8%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5721/65536      320376/3670016  ( 8.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              494/65536       27664/3670016  ( 0.8%) 
+leaves                 537/65536       17184/2097152  ( 0.8%) 
+leaffaces             7511/65536       15022/131072   (11.5%) 
+leafbrushes            603/65536        1206/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            29551/512000     118204/2048000  ( 5.8%) 
+edges                15394/256000      61576/1024000  ( 6.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1028/32768       10280/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12981/65536       25962/131072   (19.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    17165556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12424/16777216 ( 0.1%) 
+entdata               [variable]       13012/393216   ( 3.3%) 
+LDR ambient table      537/65536        2148/262144   ( 0.8%) 
+HDR ambient table      537/65536        2148/262144   ( 0.8%) 
+LDR leaf ambient      3288/65536       92064/1835008  ( 5.0%) 
+HDR leaf ambient       537/65536       15036/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       45448/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15963
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+58 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+5721 faces
+8 degenerate faces
+4989257 square feet [718453056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5713 patches before subdivision
+591211 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 118897488, max 1653
+transfer lists: 907.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2259308, 1561454, 1526527)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(196890, 133330, 127701)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25454, 17028, 15660)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3048, 2009, 1838)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(449, 294, 261)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(63, 41, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(10, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1474 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   6/1024          288/49152    ( 0.6%) 
+brushes                 96/8192         1152/98304    ( 1.2%) 
+brushsides             838/65536        6704/524288   ( 1.3%) 
+planes                 552/65536       11040/1310720  ( 0.8%) 
+vertexes              7885/65536       94620/786432   (12.0%) 
+nodes                  530/65536       16960/2097152  ( 0.8%) 
+texinfos                15/12288        1080/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5721/65536      320376/3670016  ( 8.7%) 
+hdr faces             5721/65536      320376/3670016  ( 8.7%) 
+origfaces              494/65536       27664/3670016  ( 0.8%) 
+leaves                 537/65536       17184/2097152  ( 0.8%) 
+leaffaces             7511/65536       15022/131072   (11.5%) 
+leafbrushes            603/65536        1206/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            29551/512000     118204/2048000  ( 5.8%) 
+edges                15394/256000      61576/1024000  ( 6.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1028/32768       10280/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12981/65536       25962/131072   (19.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    17165556/0        ( 0.0%) 
+HDR lightdata         [variable]    17165556/0        ( 0.0%) 
+visdata               [variable]       12424/16777216 ( 0.1%) 
+entdata               [variable]       13012/393216   ( 3.3%) 
+LDR ambient table      537/65536        2148/262144   ( 0.8%) 
+HDR ambient table      537/65536        2148/262144   ( 0.8%) 
+LDR leaf ambient      3288/65536       92064/1835008  ( 5.0%) 
+HDR leaf ambient      3288/65536       92064/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         343/0        ( 0.0%) 
+physics               [variable]       45448/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15963
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\koth_ethre.bsp
+54 seconds elapsed
