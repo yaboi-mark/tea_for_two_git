@@ -7394,6 +7394,61 @@
 	"wave"			"vo/invade_intel_teamstolen.wav"
 }
 
+"Invade.FlagNeutral"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/invade_intel_flagneutral.wav"
+}
+
+"Invade.ThirtySeconds"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/invade_intel_thirtyseconds.wav"
+}
+
+"Invade.FifteenSeconds"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/invade_intel_fifteenseconds.wav"
+}
+
+"Invade.FifteenSeconds"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/invade_intel_fifteenseconds.wav"
+}
+
+"Invade.Countdown"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/invade_intel_countdown.wav"
+}
+
 "Medic.ActivateCharge01"
 {
 	"channel"		"CHAN_VOICE"
