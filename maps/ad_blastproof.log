@@ -11641,3 +11641,429 @@ Level flags = 0
 Total triangle count: 3020
 Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
 5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_upward weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_upward to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_upward weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_upward to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31211 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 20 texinfos to 12
+Reduced 9 texdatas to 8 (221 bytes to 174)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+Wrote ZIP buffer, estimated size 458, actual size 378
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.prt
+ 330 portalclusters
+1104 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 206 visible clusters (0.23%)
+Total clusters visible: 91521
+Average clusters visible: 277
+Building PAS...
+Average clusters audible: 330
+visdatasize:30199  compressed from 31680
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+1193 faces
+1393031 square feet [200596496.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1193 patches before subdivision
+71297 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5582277, max 683
+transfer lists:  42.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(515831, 424570, 138055)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32705, 24494, 7235)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4898, 1806, 342)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(434, 133, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(74, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0176 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 84/8192         1008/98304    ( 1.0%) 
+brushsides             781/65536        6248/524288   ( 1.2%) 
+planes                 770/65536       15400/1310720  ( 1.2%) 
+vertexes              1563/65536       18756/786432   ( 2.4%) 
+nodes                  687/65536       21984/2097152  ( 1.0%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1193/65536       66808/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              290/65536       16240/3670016  ( 0.4%) 
+leaves                 690/65536       22080/2097152  ( 1.1%) 
+leaffaces             1298/65536        2596/131072   ( 2.0%) 
+leafbrushes            520/65536        1040/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6560/512000      26240/2048000  ( 1.3%) 
+edges                 3584/256000      14336/1024000  ( 1.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1260/65536        2520/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1533784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       30199/16777216 ( 0.2%) 
+entdata               [variable]        8511/393216   ( 2.2%) 
+LDR ambient table      690/65536        2760/262144   ( 1.1%) 
+HDR ambient table      690/65536        2760/262144   ( 1.1%) 
+LDR leaf ambient      4811/65536      134708/1835008  ( 7.3%) 
+HDR leaf ambient       690/65536       19320/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         378/0        ( 0.0%) 
+physics               [variable]       31211/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3020
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+1193 faces
+1393031 square feet [200596496.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1193 patches before subdivision
+71297 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5582277, max 683
+transfer lists:  42.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(515831, 424571, 138055)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32705, 24494, 7235)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4898, 1806, 342)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(434, 133, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(74, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0169 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 84/8192         1008/98304    ( 1.0%) 
+brushsides             781/65536        6248/524288   ( 1.2%) 
+planes                 770/65536       15400/1310720  ( 1.2%) 
+vertexes              1563/65536       18756/786432   ( 2.4%) 
+nodes                  687/65536       21984/2097152  ( 1.0%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1193/65536       66808/3670016  ( 1.8%) 
+hdr faces             1193/65536       66808/3670016  ( 1.8%) 
+origfaces              290/65536       16240/3670016  ( 0.4%) 
+leaves                 690/65536       22080/2097152  ( 1.1%) 
+leaffaces             1298/65536        2596/131072   ( 2.0%) 
+leafbrushes            520/65536        1040/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6560/512000      26240/2048000  ( 1.3%) 
+edges                 3584/256000      14336/1024000  ( 1.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1260/65536        2520/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1533784/0        ( 0.0%) 
+HDR lightdata         [variable]     1533784/0        ( 0.0%) 
+visdata               [variable]       30199/16777216 ( 0.2%) 
+entdata               [variable]        8511/393216   ( 2.2%) 
+LDR ambient table      690/65536        2760/262144   ( 1.1%) 
+HDR ambient table      690/65536        2760/262144   ( 1.1%) 
+LDR leaf ambient      4811/65536      134708/1835008  ( 7.3%) 
+HDR leaf ambient      4811/65536      134708/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         378/0        ( 0.0%) 
+physics               [variable]       31211/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3020
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_upward weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_upward to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_upward weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_upward to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31211 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 20 texinfos to 12
+Reduced 9 texdatas to 8 (221 bytes to 174)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+Wrote ZIP buffer, estimated size 458, actual size 378
+0 seconds elapsed
+
+
+
+6 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.prt
+ 330 portalclusters
+1104 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 206 visible clusters (0.23%)
+Total clusters visible: 91521
+Average clusters visible: 277
+Building PAS...
+Average clusters audible: 330
+visdatasize:30199  compressed from 31680
+writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+10 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+1193 faces
+1393031 square feet [200596496.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1193 patches before subdivision
+71297 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5582277, max 683
+transfer lists:  42.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(515831, 424573, 138055)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32705, 24494, 7235)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4898, 1806, 342)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(434, 133, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(74, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0156 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 84/8192         1008/98304    ( 1.0%) 
+brushsides             781/65536        6248/524288   ( 1.2%) 
+planes                 768/65536       15360/1310720  ( 1.2%) 
+vertexes              1563/65536       18756/786432   ( 2.4%) 
+nodes                  687/65536       21984/2097152  ( 1.0%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1193/65536       66808/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              290/65536       16240/3670016  ( 0.4%) 
+leaves                 690/65536       22080/2097152  ( 1.1%) 
+leaffaces             1298/65536        2596/131072   ( 2.0%) 
+leafbrushes            494/65536         988/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6560/512000      26240/2048000  ( 1.3%) 
+edges                 3584/256000      14336/1024000  ( 1.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1260/65536        2520/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1533784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       30199/16777216 ( 0.2%) 
+entdata               [variable]        8511/393216   ( 2.2%) 
+LDR ambient table      690/65536        2760/262144   ( 1.1%) 
+HDR ambient table      690/65536        2760/262144   ( 1.1%) 
+LDR leaf ambient      4811/65536      134708/1835008  ( 7.3%) 
+HDR leaf ambient       690/65536       19320/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         378/0        ( 0.0%) 
+physics               [variable]       31211/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3020
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+1193 faces
+1393031 square feet [200596496.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1193 patches before subdivision
+71297 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5582277, max 683
+transfer lists:  42.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(515831, 424572, 138055)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(32705, 24494, 7235)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4898, 1806, 342)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(434, 133, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(74, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0156 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 84/8192         1008/98304    ( 1.0%) 
+brushsides             781/65536        6248/524288   ( 1.2%) 
+planes                 768/65536       15360/1310720  ( 1.2%) 
+vertexes              1563/65536       18756/786432   ( 2.4%) 
+nodes                  687/65536       21984/2097152  ( 1.0%) 
+texinfos                12/12288         864/884736   ( 0.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1193/65536       66808/3670016  ( 1.8%) 
+hdr faces             1193/65536       66808/3670016  ( 1.8%) 
+origfaces              290/65536       16240/3670016  ( 0.4%) 
+leaves                 690/65536       22080/2097152  ( 1.1%) 
+leaffaces             1298/65536        2596/131072   ( 2.0%) 
+leafbrushes            494/65536         988/131072   ( 0.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6560/512000      26240/2048000  ( 1.3%) 
+edges                 3584/256000      14336/1024000  ( 1.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          2/8192          176/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1260/65536        2520/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1533784/0        ( 0.0%) 
+HDR lightdata         [variable]     1533784/0        ( 0.0%) 
+visdata               [variable]       30199/16777216 ( 0.2%) 
+entdata               [variable]        8511/393216   ( 2.2%) 
+LDR ambient table      690/65536        2760/262144   ( 1.1%) 
+HDR ambient table      690/65536        2760/262144   ( 1.1%) 
+LDR leaf ambient      4811/65536      134708/1835008  ( 7.3%) 
+HDR leaf ambient      4811/65536      134708/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         378/0        ( 0.0%) 
+physics               [variable]       31211/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3020
+Writing c:\program files (x86)\steam\steamapps\sourcemods\tea_for_two_git\maps\ad_blastproof.bsp
+5 seconds elapsed

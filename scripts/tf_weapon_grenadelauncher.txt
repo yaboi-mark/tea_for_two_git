@@ -10,7 +10,7 @@ WeaponData
 	// Attributes TF.
 	"Damage"				"18"
 	"DamageRadius"		"70"
-	"BulletsPerShot"	"1"
+	"BulletsPerShot"	"5"
 	"Spread"		"0.0"	
 	"PunchAngle"			"3.0"
 	"TimeFireDelay"		"0.6"
