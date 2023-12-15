@@ -22,7 +22,7 @@ WeaponData
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_GRENADES1"
 	"clip_size"		"-1"
-	"ProjectileType"	"projectile_pipe"
+	"ProjectileType"	"projectile_pipe_remote"
 	"ProjectileSpeed"	"2900"
 
 	// Buckets.
