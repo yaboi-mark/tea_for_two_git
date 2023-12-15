@@ -675,10 +675,7 @@
 
 	"rndwave"			
 	{
-		"wave"		"vo/soldier_PainCrticialDeath01.wav"
-		"wave"		"vo/soldier_PainCrticialDeath02.wav"
-		"wave"		"vo/soldier_PainCrticialDeath03.wav"
-		"wave"		"vo/soldier_PainCrticialDeath04.wav"
+		"wave"		"vo/ballersballs.wav"
 	}
 }
 
