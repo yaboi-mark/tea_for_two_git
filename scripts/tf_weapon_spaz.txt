@@ -17,7 +17,7 @@ WeaponData
 	"PunchAngle"			"3.0"
 	"Secondary_PunchAngle"			"3.0"
 	"TimeFireDelay"			"0.6"
-	"Secondary_TimeFireDelay"			"0.9"
+	"Secondary_TimeFireDelay"			"1.2"
 	"TimeIdle"			"5.0"
 	"TimeIdleEmpty"			"0.25"
 	"TimeReloadStart"		"-0.2"
