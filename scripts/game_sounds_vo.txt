@@ -639,12 +639,7 @@
 
 	"rndwave"			
 	{
-		"wave"		"vo/soldier_PainSevere01.wav"
-		"wave"		"vo/soldier_PainSevere02.wav"
-		"wave"		"vo/soldier_PainSevere03.wav"
-		"wave"		"vo/soldier_PainSevere04.wav"
-		"wave"		"vo/soldier_PainSevere05.wav"
-		"wave"		"vo/soldier_PainSevere06.wav"
+		"wave"		"vo/ballersballs.wav"
 	}
 }
 
