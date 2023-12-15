@@ -640,7 +640,7 @@
 	"rndwave"			
 	{
 		"wave"		"vo/ballersballs.wav"
-		"wave"		"vo/alien.wav
+		"wave"		"vo/alien.wav"
 	}
 }
 
