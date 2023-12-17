@@ -18,6 +18,7 @@ WeaponData
 	"TimeIdleEmpty"		"0.6"
 	"TimeReload"		"0.6"
 	"TimeReloadStart"	"-0.2"
+	"FuseTime"			"1"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_PRIMARY"
@@ -25,7 +26,7 @@ WeaponData
 	"clip_size"		"6"
 	"default_clip"		"6"
 	"ProjectileType"	"projectile_pipe"
-	"ProjectileSpeed"	"2900"
+	"ProjectileSpeed"	"3000"
 
 	// Buckets.
 	"bucket"		"0"

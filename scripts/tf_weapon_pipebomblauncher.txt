@@ -18,6 +18,7 @@ WeaponData
 	"TimeIdleEmpty"		"0.4"
 	"TimeReloadStart"	"0.2"
 	"TimeReload"		"0.4"
+	"FuseTime"			"4"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_PRIMARY"

@@ -18,12 +18,13 @@ WeaponData
 	"TimeIdleEmpty"		"0"
 	"TimeReload"		"0"
 	"TimeReloadStart"	"0"
+	"FuseTime"			"2"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_GRENADES1"
 	"clip_size"		"-1"
 	"ProjectileType"	"projectile_pipe_remote"
-	"ProjectileSpeed"	"2900"
+	"ProjectileSpeed"	"3000"
 
 	// Buckets.
 	"bucket"		"3"
