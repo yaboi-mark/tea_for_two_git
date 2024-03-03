@@ -23,6 +23,7 @@ fWeaponData
 	"ProjectileType"		"projectile_syringe"
 	"AmmoPerShot"			"1"
 	"HasTeamSkins_Viewmodel"			"1"
+	"ProjectileSpeed"		"3000"
 	
 	"DoInstantEjectBrass"	"0"
 	"BrassModel"			"models/weapons/shells/shell_shotgun.mdl"	

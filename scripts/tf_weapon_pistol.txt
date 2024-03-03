@@ -12,7 +12,9 @@ WeaponData
 	"Range"			"4096"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.04"
+	"Secondary_Spread"		"0.01"
 	"TimeFireDelay"		"0.12"
+	"Secondary_TimeFireDelay"		"0.18"
 	"TimeIdle"		"5.0"
 	"TimeIdleEmpty"		"0.25"
 	"TimeReload"		"1"
@@ -20,13 +22,16 @@ WeaponData
 	"BrassModel"		"models/weapons/shells/shell_pistol.mdl"
 	"UseRapidFireCrits"	"1"
 	"TracerEffect"		"bullet_pistol_tracer01"
-	"DeploySpeed"	"3"
+	"PunchAngle"	"0.75"
+	"PunchAngleHorizontal"	"1"
+	"Secondary_PunchAngle"	"0.3"
+	"Secondary_PunchAngleHorizontal"	"0.3"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_SECONDARY"
 	"secondary_ammo"	"None"
-	clip_size		30
-	default_clip		30
+	"clip_size"		"30"
+	"default_clip"		"30"
 
 	// Buckets.
 	"bucket"		"1"

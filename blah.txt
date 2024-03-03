@@ -1,0 +1,53 @@
+Network: IP 192.168.68.78, mode MP, dedicated No, ports 27015 SV / 27005 CL
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+env_cubemap used on world geometry without rebuilding map. . ignoring: glass/glasswindow001a
+Using map cycle file 'cfg/mapcycle_default.txt'.  ('cfg/mapcycle.txt' was not found.)
+Error: Material "models/weapons/w_pistol1/w_pistol" : proxy "ModelGlowColor" not found!
+Ignoring material flag '$ignorez' on material '0'.
+Ignoring material flag '$ignorez' on material '0'.
+SV_BroadcastMessage:  Recipient Filter for message type 23 (reliable: no, init: no) with bogus client index (0) in list of 1 clients
+Error: Material "models/workshop/weapons/c_models/c_garand_shotgun/c_garand_shotgun" : proxy "AnimatedWeaponSheen" not found!
+Error: Material "models/workshop/weapons/c_models/c_garand_shotgun/c_garand_shotgun" : proxy "invis" not found!
+Error: Material "models/workshop/weapons/c_models/c_garand_shotgun/c_garand_shotgun" : proxy "ModelGlowColor" not found!
+Error: Material "models/workshop/weapons/c_models/c_garand_shotgun/c_garand_shotgun" : proxy "YellowLevel" not found!
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+'listenserver.cfg' not present; not executing.
+'ad_blastproof.cfg' not present; not executing.
+
+Team Fortress
+Map: ad_blastproof
+Players: 1 / 24
+Build: 6630498
+Server Number: 1
+
+Error loading cfg/trusted_keys_base.txt
+Error loading cfg/pure_server_minimal.txt
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Voice_Init: Using Steam voice optimal sample rate 24000
+Mommyplier! connected
+Compact freed 1024000 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Bot01 connected
+noclip ON
+Mommyplier! suicided.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+noclip ON
+noclip OFF
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled: cheats turned on in this app session.

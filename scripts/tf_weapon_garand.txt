@@ -13,6 +13,7 @@ WeaponData
 	"BulletsPerShot"	"1"
 	"Spread"		"0.013"
 	"PunchAngle"			"3.0"
+	"PunchAngleHorizontal"			"0.20"
 	"TimeIdleEmpty"			"0.15"
 	"TimeFireDelay"		"0.45"
 	"TimeReload"	"0.45"

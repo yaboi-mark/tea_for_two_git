@@ -12,6 +12,7 @@ WeaponData
 	"Range"					"4096"
 	"Spread"				"0.095"
 	"PunchAngle"			"6"
+	"PunchAngleHorizontal"	"6"
 	"BulletsPerShot"		"15"
 	"TimeFireDelay"			"0.4"
 	"TimeIdle"				"5.0"

@@ -11,7 +11,7 @@ WeaponData
 	"Damage"				"18"
 	"DamageRadius"		"70"
 	"BulletsPerShot"	"5"
-	"Spread"		"100"	
+	"Spread"		"4"	
 	"PunchAngle"			"3.0"
 	"TimeFireDelay"		"0.6"
 	"TimeIdle"			"0.6"
