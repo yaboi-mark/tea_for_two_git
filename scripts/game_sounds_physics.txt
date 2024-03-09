@@ -90,6 +90,17 @@
 	}
 }
 
+"Player.Slide"
+{
+	"soundlevel"		"SNDLVL_96dB"
+	"pitch"			"95,105"
+	"volume"			"1.0"
+	"rndwave"
+	{
+		"wave"		"player/slide.wav"
+	}
+}
+
 "Default.StepLeft"
 {
 	"soundlevel"		"SNDLVL_96dB"
